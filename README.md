@@ -238,7 +238,7 @@ the file will be uploaded as `new.txt`.
 
 - Clone this repo:
 ```
-git clone https://github.com/AbirHasan2005/Telegram-Leech-Bot telegram-leech-bot
+git clone https://github.com/ankitmeena01/Telegram-Leech-Bot telegram-leech-bot
 cd telegram-leech-bot
 ```
 
@@ -286,6 +286,4 @@ sudo docker run torrentleech-gdrive
 * [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot).
 * [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh).
 * [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups.
-* [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video").
-
-* Can't give a [Thanks](http://t.me/linux_repo) to [me](https://github.com/AbirHasan2005). :|
+* [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)
